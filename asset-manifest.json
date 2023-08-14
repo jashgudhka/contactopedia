@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/contactopedia/static/js/main.e88bd7e8.js",
+    "index.html": "/contactopedia/index.html",
+    "main.e88bd7e8.js.map": "/contactopedia/static/js/main.e88bd7e8.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.e88bd7e8.js"
+  ]
+}
